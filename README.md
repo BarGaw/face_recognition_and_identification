@@ -1,3 +1,3 @@
-# face_recognition_and_identification
+# Face recognition and identification
 
 Repozytorium dla projektu studenckiego koła naukowego IDS
